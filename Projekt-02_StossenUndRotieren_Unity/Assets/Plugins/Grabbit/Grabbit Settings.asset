@@ -69,7 +69,7 @@ MonoBehaviour:
     m_Font: {fileID: 0}
     m_FontSize: 12
     m_FontStyle: 0
-    m_Alignment: 0
+    m_Alignment: 3
     m_WordWrap: 0
     m_RichText: 1
     m_TextClipping: 1
@@ -136,7 +136,7 @@ MonoBehaviour:
     m_Font: {fileID: 0}
     m_FontSize: 15
     m_FontStyle: 0
-    m_Alignment: 0
+    m_Alignment: 3
     m_WordWrap: 1
     m_RichText: 1
     m_TextClipping: 1
@@ -203,7 +203,7 @@ MonoBehaviour:
     m_Font: {fileID: 0}
     m_FontSize: 20
     m_FontStyle: 0
-    m_Alignment: 0
+    m_Alignment: 3
     m_WordWrap: 0
     m_RichText: 1
     m_TextClipping: 1
@@ -270,7 +270,7 @@ MonoBehaviour:
     m_Font: {fileID: 0}
     m_FontSize: 40
     m_FontStyle: 0
-    m_Alignment: 0
+    m_Alignment: 3
     m_WordWrap: 0
     m_RichText: 1
     m_TextClipping: 1
@@ -822,7 +822,7 @@ MonoBehaviour:
     m_Font: {fileID: 0}
     m_FontSize: 12
     m_FontStyle: 0
-    m_Alignment: 0
+    m_Alignment: 3
     m_WordWrap: 0
     m_RichText: 1
     m_TextClipping: 1
@@ -1093,7 +1093,7 @@ MonoBehaviour:
   tagSelected: Untagged
   AlignStrength: 1
   ExtraDragForRotationMode: 100
-  GravityStrength: {x: 0, y: -9.802159, z: -0.0000011685086}
+  GravityStrength: {x: -0.42005286, y: -8.868157, z: 4.1551824}
   LimitBodyVelocityInGravityMode: 0
   SetGravityInDirectionOfMouse: 0
   PausePositionReajustment: 1
